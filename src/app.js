@@ -50,12 +50,12 @@ app.get(['/table2001/', '/table2001/:iso_code/'], (req, res) => {
         const collection = db.collection('2001');
 
         if (need_all) {
-            cursor = collection.find(query).sort({a03: -1});
+            var cursor = collection.find(query).sort({a03: -1});
         } else {
             if (iso_code == "all") {
-                cursor = collection.find(query).sort({a02: 1, a03: -1});
+                var cursor = collection.find(query).sort({a02: 1, a03: -1});
             } else {
-                cursor = collection.find(query).sort({ a03: -1 }).limit(1) // for MAX;
+                var cursor = collection.find(query).sort({ a03: -1 }).limit(1) // for MAX;
             }
         }
 
@@ -100,12 +100,12 @@ app.get(['/table2002/', '/table2002/:iso_code/'], (req, res) => {
         const collection = db.collection('2002');
 
         if (need_all) {
-            cursor = collection.find(query).sort({a03: -1});
+            var cursor = collection.find(query).sort({a03: -1});
         } else {
             if (iso_code == "all") {
-                cursor = collection.find(query).sort({a02: 1, a03: -1});
+                var cursor = collection.find(query).sort({a02: 1, a03: -1});
             } else {
-                cursor = collection.find(query).sort({ a03: -1 }).limit(1) // for MAX;
+                var cursor = collection.find(query).sort({ a03: -1 }).limit(1) // for MAX;
             }
         }
 
