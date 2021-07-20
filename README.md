@@ -28,7 +28,7 @@ Latest Data from Covid19.NCHC.org.tw will be import to your local MongoDB.
 ![importing data](imgs/img01.png)
 
 Datasets are:
-- [Internal Vaccination Dataset](https://covid-19.nchc.org.tw/api.php?tableID=2002)
+- [International Vaccination Dataset](https://covid-19.nchc.org.tw/api.php?tableID=2002)
 - [Taiwan Vaccination Dataset](https://covid-19.nchc.org.tw/api.php?tableID=2001)
 
 
@@ -51,7 +51,7 @@ Your service will be at port: **8080**.
 
 ### avbl. API calls
 
-- Internal Vaccination Dataset: '/table2002/', '/table2002/:iso_code/'
+- International Vaccination Dataset: '/table2002/', '/table2002/:iso_code/'
 - Taiwan Vaccination Dataset: '/table2001/', '/table2001/:iso_code/'
 
 samples from command line calls:
