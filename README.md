@@ -70,8 +70,8 @@ open browser to [http://localhost:8080/table2001/澎湖縣?all=true](http://loca
 
 ## Applications
 
-- for Data Scientist, check out [beautiful](https://covid-19.nchc.org.tw/refineCards.php) and [understanderable](https://covid-19.nchc.org.tw/dt_002-csse_covid_19_daily_reports_vaccine_city2.php) graph hat Covid19.NCHC.org.tw can do. 
-- for Machine Learning / AI Modeler, check out that [state-of-the-art studies](https://scholar.google.com/scholar?hl=zh-TW&as_sdt=0%2C5&q=Vaccination+covid+19+Taiwan&btnG=).
+- for Data Scientist, check out [beautiful](https://covid-19.nchc.org.tw/refineCards.php) and [understanderable](https://covid-19.nchc.org.tw/dt_002-csse_covid_19_daily_reports_vaccine_city2.php) graph that Covid19.NCHC.org.tw can do. 
+- for Machine Learning / AI Modeler, check out that [state-of-the-art studies](https://scholar.google.com/scholar?hl=zh-TW&as_sdt=0%2C5&q=Vaccination+covid+19+Taiwan&btnG=) you can figure out from these datasets.
 
 ## Limitations
 
