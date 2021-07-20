@@ -51,8 +51,8 @@ Your service will be at port: **8080**.
 
 ### avbl. API calls
 
-- International Vaccination Dataset: '/table2002/', '/table2002/:iso_code/'
-- Taiwan Vaccination Dataset: '/table2001/', '/table2001/:iso_code/'
+- [International Vaccination Dataset](https://covid-19.nchc.org.tw/api.php?tableID=2002): '/table2002/', '/table2002/:iso_code/'
+- [Taiwan Vaccination Dataset](https://covid-19.nchc.org.tw/api.php?tableID=2001): '/table2001/', '/table2001/:iso_code/'
 
 samples from command line calls:
 ```
