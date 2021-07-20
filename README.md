@@ -35,7 +35,7 @@ Datasets are:
 If you already installed [MongoDB Compass](https://www.mongodb.com/products/compass), you can try to access this MongoDB, it looks like
 ![login mongoDB](imgs/img05.png)
 
-> [MongoDB Compass](https://www.mongodb.com/products/compass) is very good tool. It can help you generate sample call specially while you using [Pipeline](https://docs.mongodb.com/manual/core/aggregation-pipeline/) in your project. Code generator like this, 
+> [MongoDB Compass](https://www.mongodb.com/products/compass) is very good tool. It can help you generate sample codes, specially while you using [Pipeline](https://docs.mongodb.com/manual/core/aggregation-pipeline/) in your project. Code generator like this, 
 > 
 > ![Compass](imgs/img02.png)
 
