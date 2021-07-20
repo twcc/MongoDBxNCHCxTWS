@@ -64,7 +64,7 @@ and it looks like this (in Visual Studio Code)
 
 ![bash call](imgs/img04.png)
 
-open browser to [http://localhost:8080/table2001/澎湖縣?all=true](http://localhost:8080/table2001/%E6%BE%8E%E6%B9%96%E7%B8%A3?all=true) from browsers, and it looks like:
+open browser to [http://localhost:8080/table2001/澎湖縣?all=true](http://localhost:8080/table2001/%E6%BE%8E%E6%B9%96%E7%B8%A3?all=true) , and it looks like:
 
 ![twn_local_stats](imgs/img03.png)
 
