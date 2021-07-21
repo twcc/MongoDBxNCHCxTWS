@@ -3,7 +3,7 @@
 ## [Join Us](https://www.digitimes.com.tw/Event_NCHC_anticovid2.0/)! Let's fight Covid-19!!
 
 
-![no_covid19](imgs/img06.png)
+![no_covid19](imgs/img06.png )
 
 `#邀請您成為這島嶼的光`
 
@@ -13,7 +13,7 @@
 
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/Bv2DOXqzvmo/0.jpg)](https://www.youtube.com/watch?v=Bv2DOXqzvmo)
 
-[![join us](imgs/img07.png =250x)](https://www.digitimes.com.tw/Event_NCHC_anticovid2.0/)
+[![join us](imgs/img07.png)](https://www.digitimes.com.tw/Event_NCHC_anticovid2.0/)
 
 ## Prerequisite 
 
