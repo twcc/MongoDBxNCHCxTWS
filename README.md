@@ -20,7 +20,7 @@ npm install
 ## Fetch Data from Covid19.NCHC
 
 ```
-bash script/get_data.sh
+bash scripts/get_data.sh
 ```
 
 Latest Data from Covid19.NCHC.org.tw will be import to your local MongoDB. 
