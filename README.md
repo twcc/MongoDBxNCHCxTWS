@@ -1,5 +1,14 @@
 # NCHC Vaccination Dataset to MongoDB
 
+## Join Us! Let's fight Covid-19!!
+
+`#邀請您成為這島嶼的光`
+`#台灣平安。台灣加油。`
+
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/Bv2DOXqzvmo/0.jpg)](https://www.youtube.com/watch?v=Bv2DOXqzvmo)
+
+
+
 ## Prerequisite 
 
 1. need [MongoDB v5.0.0](https://docs.mongodb.com/v5.0/release-notes/5.0/)
